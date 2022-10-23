@@ -1,0 +1,34 @@
+{
+  "KV1": 1602,
+  "KV2": 1,
+  "KV3": 1602,
+  "KV4": 1,
+  "KV5": 1602,
+  "availability": {
+    "flag": "TRUE/FALSE"
+  },
+  "performance": {},
+  "change": {},
+  "traffic": {},
+  "Incidents": {},
+  "other": {},
+  "security": {
+    "logon": {},
+    "reconn": {},
+    "exploit": {},
+    "malware_Detected": {},
+    "policy_Violation": {},
+    "Vulnerability": {},
+    "App Access Error": {},
+    "Data Leak": {},
+    "File Execution": {},
+    "File Access": {},
+    "ProcessActivity": {}
+  }
+}
+
+{"Comments": "Json is data only ",
+"Comments": "each Format type has a flag at the start TRUE/False 
+Wthin the siem the raw data log is only the key values & any object that is flag true ",
+"Comments": "KV = key values to be decided yet "
+}
