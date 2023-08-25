@@ -1,2 +1,2 @@
 # Standard-Security-Format
-Masters Dissertation
+(Masters Dissertation) A universal Security Log format 
